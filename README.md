@@ -1,9 +1,29 @@
 ![INTEL SVG](./assets/intel.svg)
 
-<input type="radio" name="position" id="p1">
-<input type="radio" name="position" id="p2">
-<input type="radio" name="position" id="p3">
+<details>
+<summary>🎮 Open Game</summary>
 
-<label for="p1">🧍</label>
-<label for="p2">🪙</label>
-<label for="p3">🚪</label>
+### 🧩 Choose a door
+
+<details>
+<summary>🚪 Door 1</summary>
+
+💀 You found a trap!
+
+</details>
+
+<details>
+<summary>🚪 Door 2</summary>
+
+🎉 You found the treasure!
+
+</details>
+
+<details>
+<summary>🚪 Door 3</summary>
+
+👻 A ghost got you!
+
+</details>
+
+</details>
