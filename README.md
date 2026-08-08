@@ -1,16 +1,26 @@
-## Hi there 👋
+<svg
+  width="200"
+  height="100"
+  viewBox="0 0 200 100"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <style>
+    .box {
+      fill: steelblue;
+      transition: fill 0.3s ease;
+    }
 
-<!--
-**Anas-025/Anas-025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    .box:hover {
+      fill: tomato;
+    }
+  </style>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <rect
+    class="box"
+    x="25"
+    y="25"
+    width="150"
+    height="50"
+    rx="8"
+  />
+</svg>
